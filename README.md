@@ -4,10 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- 👋 Hi, I’m @jsooo35
+- 👋 Hi, I’m Johnathan So.
 
-- 👀 I’m interested in Web Development, Mobile App Development, UX/UI Design, game development, video games,
-basketball, weight lifting, and anime.
+- 👀 I’m interested in Web Development, Mobile App Development, UX/UI Design, game development, video games, basketball, weight lifting, traveling, and anime.
 
 - 🌱 I’m currently learning Web development and React.js
 
