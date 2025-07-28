@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Johnathan So.
 
-- 👀 I’m interested in Web Development, Mobile App Development, UX/UI Design, game development, video games, basketball, weight lifting, traveling, and anime.
+- 👀 I’m interested in Data Analytics, Data Engineering, SQL, video games, basketball, weight lifting, traveling, and anime.
 
-- 🌱 I’m currently learning Web development and React.js
+- 🌱 I’m currently learning Workato and Ruby on Rails.
 
 - 💞️ I’m looking to collaborate on projects that are challenging and fun.
 
